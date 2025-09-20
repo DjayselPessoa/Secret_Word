@@ -1,0 +1,14 @@
+.start {
+    padding: 5px;
+}
+
+.start h1{
+    font-size: 3.5em;
+}
+
+.start p {
+    margin-bottom: 2em;
+    font-size: 1.6em;
+    color: rgba(251, 167, 12, 0.667);
+}
+
