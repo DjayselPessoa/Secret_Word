@@ -1,3 +1,18 @@
+# First steps
+
+- create a empty project in your pc with -> npx create-react-app secretword
+- download the packege of this project
+- replace the folders and files with the new code.
+
+---
+
+- enter the directory through the terminal cd name/name
+- npm start
+
+### This is a project with react, so you need npm installed in you device. 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
